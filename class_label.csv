@@ -1,0 +1,27 @@
+dx	Abbreviation	SNOMEDCTCode
+atrial fibrillation	AF	164889003
+atrial flutter	AFL	164890007
+bundle branch block	BBB	6374002
+complete left bundle branch block	Brady	426627000
+complete left bundle branch block	CLBBB|LBBB	733534002
+complete right bundle branch block	CRBBB|RBBB	713427006
+1st degree av block	IAVB	270492004
+incomplete right bundle branch block	IRBBB	713426002
+left axis deviation	LAD	39732003
+left anterior fascicular block	LAnFB	445118002
+prolonged pr interval	LPR	164947007
+low qrs voltages	LQRSV	251146004
+prolonged qt interval	LQT	111975006
+nonspecific intraventricular conduction disorder	NSIVCB	698252002
+sinus rhythm	NSR	426783006
+premature atrial contraction supraventricular premature beats	PAC|SVPB	284470004
+pacing rhythm	PR	10370003
+poor R wave Progression	PRWP	365413008
+premature ventricular contractions	PVC|VPB	427172004
+qwave abnormal	QAb	164917005
+right axis deviation	RAD	47665007
+sinus arrhythmia	SA	427393009
+sinus bradycardia	SB	426177001
+sinus tachycardia	STach	427084000
+t wave abnormal	TAb	164934002
+t wave inversion	TInv	59931005

@@ -1,0 +1,12 @@
+dx	Abbreviation	SNOMEDCTCode
+atrial fibrillation	AF	164889003
+atrial flutter	AFL	164890007
+complete left bundle branch block	CLBBB|LBBB	733534002
+1st degree av block	IAVB	270492004
+left anterior fascicular block	LAnFB	445118002
+prolonged pr interval	LPR	164947007
+premature atrial contraction supraventricular premature beats	PAC|SVPB	284470004
+pacing rhythm	PR	10370003
+sinus arrhythmia	SA	427393009
+sinus bradycardia	SB	426177001
+sinus tachycardia	STach	427084000
