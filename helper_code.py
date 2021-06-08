@@ -30,6 +30,8 @@ def find_challenge_files(data_directory):
 
         if 'gz' in ff:
             continue
+        if 'zip' in ff:
+            continue
         # if 'CPSC' not in ff:
         #     continue
         # if 'Shaoxing' not  in ff:
