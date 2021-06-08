@@ -10,7 +10,7 @@ test_model.py > 만들어진 tree 로 2번을 수행
 
 
 ### train decision Tree sklearn
-![image](https://user-images.githubusercontent.com/80017879/121106756-9a2cf880-c841-11eb-9312-ad741e782b37.png)
+![image](https://user-images.githubusercontent.com/80017879/121107703-5b983d80-c843-11eb-8a9e-601c9d4e1d27.png)
 train random forest decision tree model  
 python train_mode.py [datapath] [modelpath]
 
