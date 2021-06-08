@@ -12,7 +12,7 @@ test_model.py > 만들어진 tree 로 2번을 수행
 ### input
 ![image](https://user-images.githubusercontent.com/80017879/121106756-9a2cf880-c841-11eb-9312-ad741e782b37.png)
 train random forest decision tree model  
-python train_mode.py [datapath]
+python train_mode.py [datapath] [modelpath]
 
 ### evaluate & Feature Selection 
 
