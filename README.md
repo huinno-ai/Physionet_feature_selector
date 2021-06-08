@@ -12,9 +12,9 @@ test_model.py > 만들어진 tree 로 2번을 수행
 ### input
 ![image](https://user-images.githubusercontent.com/80017879/121106756-9a2cf880-c841-11eb-9312-ad741e782b37.png)
 
-train_model decision Tree model : train_model.py
+train_model decision Tree model : train_model.py  
 python train_mode.py [datapath]
 
 ### evaluate & Feature Selection 
-python test_model [modelpath]
+python test_model [modelpath] [datapath] [outputpath]  
 ![image](https://user-images.githubusercontent.com/80017879/121106971-0c9dd880-c842-11eb-9777-507a2537b05f.png)
