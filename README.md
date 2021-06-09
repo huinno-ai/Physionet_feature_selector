@@ -11,7 +11,7 @@ test_model.py > 만들어진 tree 로 2번을 수행
 
 ### pre install
 pip install hrv-analysis  
-pip install pip install py-ecg-detectors  
+pip install py-ecg-detectors  
 
 
 
